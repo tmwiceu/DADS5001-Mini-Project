@@ -31,6 +31,7 @@
 </p>
 
 ## ความพึงพอใจของการแต่งงานทั้งสองแบบ
+จะเห็นว่าทั้งสอบแบบอยู่ในระดับปานกลาง
 <p align="center">
 <img width="790" height="490" alt="Unknown-4" src="https://github.com/user-attachments/assets/e116a3a6-23aa-4802-a2fc-fa20d255d652" />
 </p>
